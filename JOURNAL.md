@@ -6,12 +6,10 @@
   ==================================================================
 -->
 
-## 10/27/2025 - Made the full project  
+## 10/27/2025 - Research  
 
-Read through the tutorial.
-Added my own parts like using all of the usb data pins ( used total of 4 female adapters )
-Routed in the only way that is reasonable - Also only used top layer.
+Read through hackclub's usb 2.0 usb_hub tutorial. Followed along and deviated at some points. Such as using double the usb ports and using a different diode.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--9e3ba0b21f370d23741ae7f83b055718fdef2b9c/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bd67c08ce88428f77c5fbe35a485ffbf7e391ce/image.png)
   
 
