@@ -6,10 +6,17 @@
   ==================================================================
 -->
 
-## 10/27/2025 - Research + Schematic  
+## 10/27/2025 4 PM - Research + Schematic  
 
 Read through hackclub's usb 2.0 usb_hub tutorial. Followed along and deviated at some points. Such as using double the usb ports and using a different diode.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bd67c08ce88428f77c5fbe35a485ffbf7e391ce/image.png)
+  
+
+## 10/27/2025 5 PM - Routed the PCB  
+
+Routed the pcb although not the most interesting design it should give the ports the least strain when weight placed on the by putting on one side, also increases user accessibility.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--68a6cf455286aef79eb9e83618a9a6fe1669396a/image.png)
   
 
