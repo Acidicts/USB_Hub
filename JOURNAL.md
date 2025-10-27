@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/27/2025 - Research  
+## 10/27/2025 - Research + Schematic  
 
 Read through hackclub's usb 2.0 usb_hub tutorial. Followed along and deviated at some points. Such as using double the usb ports and using a different diode.
 
