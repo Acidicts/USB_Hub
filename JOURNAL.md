@@ -13,10 +13,17 @@ Read through hackclub's usb 2.0 usb_hub tutorial. Followed along and deviated at
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bd67c08ce88428f77c5fbe35a485ffbf7e391ce/image.png)
   
 
-## 10/27/2025 5 PM - Routed the PCB  
+## 10/27/2025 5:01 PM - Routed the PCB  
 
 Routed the pcb although not the most interesting design it should give the ports the least strain when weight placed on the by putting on one side, also increases user accessibility.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--68a6cf455286aef79eb9e83618a9a6fe1669396a/image.png)
+  
+
+## 10/27/2025 5:02 PM - Decorated the pcb   
+
+Added a bad joke "electricity and data junction" but this joke is "very necessary". Added hackclub logo so I always remember why I made it and "Cars" to link back to the joke mentioned prior.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d871992baa9ddf69da2fb74a8d223b23ba5738e0/image.png)
   
 
