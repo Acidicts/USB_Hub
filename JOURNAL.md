@@ -20,7 +20,7 @@ Routed the pcb although not the most interesting design it should give the ports
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--68a6cf455286aef79eb9e83618a9a6fe1669396a/image.png)
   
 
-## 10/27/2025 5:02 PM - Decorated the pcb   
+## 10/27/2025 5:02 PM - Decorated the pcb  - 0.3 hrs  
 
 Added a bad joke "electricity and data junction" but this joke is "very necessary". Added hackclub logo so I always remember why I made it and "Cars" to link back to the joke mentioned prior.
 
